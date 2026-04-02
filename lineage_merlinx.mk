@@ -25,4 +25,5 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="merlin-user 11 RP1A.200720.011 V12.5.4.0.RJOMIXM release-keys"
 
-BUILD_FINGERPRINT := google/rango_beta/rango:16/BP41.250916.015.A1/14394230:user/release-keys
+BUILD_FINGERPRINT := google/mustang/mustang:16/BD3A.251005.003.W3/14147046:user/release-keys
+
